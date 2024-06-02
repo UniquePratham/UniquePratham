@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <div style="margin: 10px; width: 30%; display: flex; justify-content: center;">
     <img src="ae382565492643.5af5d8f6aa348.gif" alt="uniquepratham" style="height: 200px; width: 200px;"/>
   </div>
@@ -16,7 +16,6 @@
     <img src="1.gif" alt="uniquepratham" style="height: 200px; width: 200px;"/>
   </div>
 </div>
-
 
 <br>
 
