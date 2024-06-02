@@ -29,14 +29,45 @@
     <img src="https://img.shields.io/twitter/follow/unique_pratham?logo=twitter&style=for-the-badge" alt="unique_pratham" />
   </a>
 </p>
-
-- 🔭 I’m currently working on **YOLOv8**
-- 🌱 I’m currently learning **Other Web Frameworks**
-- 👯 I’m looking to collaborate on **Destiny One**
-- 🤝 I’m looking for help with **3D Game Website**
-- 💬 Ask me about **HTML, CSS, JavaScript, C, MongoDB**
-- 📫 How to reach me **gargpratham71@gmail.com**
-- ⚡ Fun fact **I am always ready to learn**
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
+      <ul style="list-style: none; padding: 0;">
+        <li>🔭 I’m currently working on YOLOv8</li>
+        <li>🌱 I’m currently learning Other Web Frameworks</li>
+        <li>👯 I’m looking to collaborate on Destiny One</li>
+        <li>🤝 I’m looking for help with 3D Game Website</li>
+        <li>💬 Ask me about HTML, CSS, JavaScript, C, MongoDB</li>
+        <li>📫 How to reach me gargpratham71@gmail.com</li>
+        <li>⚡ Fun fact I am always ready to learn</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
+      <strong>Projects:</strong>
+      <ul style="list-style: none; padding: 0;">
+        <li>Personal Projects Related to Web Development</li>
+        <li>
+          SnakeMania Game: <a href="https://snakemania-37281.web.app/" target="_blank">https://snakemania-37281.web.app/</a>
+        </li>
+        <li>
+          TicTacToe Game: <a href="https://prathamtictactoegame.web.app/" target="_blank">https://prathamtictactoegame.web.app/</a>
+        </li>
+        <li>
+          Spotify - My Version: <a href="https://prathamversionspotify.web.app/" target="_blank">https://prathamversionspotify.web.app/</a>
+        </li>
+        <li>
+          Online KeyBoard: <a href="https://pratham-keyboard.web.app/" target="_blank">https://pratham-keyboard.web.app/</a>
+        </li>
+        <li>
+          FreshShresh News: <a href="https://freshshreshnews.web.app/" target="_blank">https://freshshreshnews.web.app/</a>
+        </li>
+        <li>
+          Magic Notes App: <a href="https://magic-notes1.web.app/" target="_blank">https://magic-notes1.web.app/</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
