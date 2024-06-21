@@ -36,22 +36,22 @@
       <ul style="list-style: none; padding: 0;">
         <li>Personal Projects Related to Web Development</li>
         <li>
-          SnakeMania Game: <a href="https://snakemania-37281.web.app/" target="_blank">https://snakemania-37281.web.app/</a>
+          SnakeMania Game:<br> <a href="https://snakemania-37281.web.app/" target="_blank">https://snakemania-37281.web.app/</a>
         </li>
         <li>
-          TicTacToe Game: <a href="https://prathamtictactoegame.web.app/" target="_blank">https://prathamtictactoegame.web.app/</a>
+          TicTacToe Game:<br> <a href="https://prathamtictactoegame.web.app/" target="_blank">https://prathamtictactoegame.web.app/</a>
         </li>
         <li>
-          Spotify - My Version: <a href="https://prathamversionspotify.web.app/" target="_blank">https://prathamversionspotify.web.app/</a>
+          Spotify - My Version:<br> <a href="https://prathamversionspotify.web.app/" target="_blank">https://prathamversionspotify.web.app/</a>
         </li>
         <li>
-          Online KeyBoard: <a href="https://pratham-keyboard.web.app/" target="_blank">https://pratham-keyboard.web.app/</a>
+          Online KeyBoard:<br> <a href="https://pratham-keyboard.web.app/" target="_blank">https://pratham-keyboard.web.app/</a>
         </li>
         <li>
-          FreshShresh News: <a href="https://freshshreshnews.web.app/" target="_blank">https://freshshreshnews.web.app/</a>
+          FreshShresh News:<br> <a href="https://freshshreshnews.web.app/" target="_blank">https://freshshreshnews.web.app/</a>
         </li>
         <li>
-          Magic Notes App: <a href="https://magic-notes1.web.app/" target="_blank">https://magic-notes1.web.app/</a>
+          Magic Notes App:<br> <a href="https://magic-notes1.web.app/" target="_blank">https://magic-notes1.web.app/</a>
         </li>
       </ul>
     </td>
