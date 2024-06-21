@@ -70,20 +70,21 @@
       <strong>Team Web Projects:</strong>
       <ul style="list-style: none; padding: 0;">
         <li>Team Projects Related to Web Development</li>
+        <br>
         <li>
-          Pangea News: <a href="https://pangeanews.vercel.app/" target="_blank">https://pangeanews.vercel.app/</a>
+          Pangea News:<br> <a href="https://pangeanews.vercel.app/" target="_blank">https://pangeanews.vercel.app/</a>
         </li>
         <li>
-          ACNS Company: <a href="https://acns.vercel.app/" target="_blank">https://acns.vercel.app/</a>
+          ACNS Company:<br> <a href="https://acns.vercel.app/" target="_blank">https://acns.vercel.app/</a>
         </li>
         <li>
-          ClimaGuard: <a href="https://climaguard.vercel.app/" target="_blank">https://climaguard.vercel.app/</a>
+          ClimaGuard:<br> <a href="https://climaguard.vercel.app/" target="_blank">https://climaguard.vercel.app/</a>
         </li>
         <li>
-          Child Rights: <a href="https://bal-adhikar-funquest.vercel.app/" target="_blank">https://bal-adhikar-funquest.vercel.app/</a>
+          Child Rights:<br> <a href="https://bal-adhikar-funquest.vercel.app/" target="_blank">https://bal-adhikar-funquest.vercel.app/</a>
         </li>
         <li>
-          Destiny One: <a href="https://destinyone.vercel.app/" target="_blank">https://destinyone.vercel.app/</a>
+          Destiny One:<br> <a href="https://destinyone.vercel.app/" target="_blank">https://destinyone.vercel.app/</a>
         </li>
       </ul>
     </td>
