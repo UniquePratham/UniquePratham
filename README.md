@@ -31,19 +31,8 @@
 </p>
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
-      <ul style="list-style: none; padding: 0;">
-        <li>🔭 I’m currently working on YOLOv8</li>
-        <li>🌱 I’m currently learning Other Web Frameworks</li>
-        <li>👯 I’m looking to collaborate on Destiny One</li>
-        <li>🤝 I’m looking for help with 3D Game Website</li>
-        <li>💬 Ask me about HTML, CSS, JavaScript, C, MongoDB</li>
-        <li>📫 How to reach me gargpratham71@gmail.com</li>
-        <li>⚡ Fun fact I am always ready to learn</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
-      <strong>Projects:</strong>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
+      <strong>Web Projects:</strong>
       <ul style="list-style: none; padding: 0;">
         <li>Personal Projects Related to Web Development</li>
         <li>
@@ -63,6 +52,38 @@
         </li>
         <li>
           Magic Notes App: <a href="https://magic-notes1.web.app/" target="_blank">https://magic-notes1.web.app/</a>
+        </li>
+      </ul>
+    </td>
+     <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 40%;">
+      <ul style="list-style: none; padding: 0;">
+        <li>🔭 I’m currently working on Full Stack Web Development and Image Processing</li>
+        <li>🌱 I’m currently learning Machine Learning and BlockChain</li>
+        <li>👯 I’m looking to collaborate on Web Projects</li>
+        <li>🤝 I’m looking for help with Generative AI</li>
+        <li>💬 Ask me about Web Dev, Designing, CyberSecurity and Other Related Domains</li>
+        <li>📫 How to reach me gargpratham71@gmail.com</li>
+        <li>⚡ Fun fact I am always ready to learn</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
+      <strong>Team Web Projects:</strong>
+      <ul style="list-style: none; padding: 0;">
+        <li>Team Projects Related to Web Development</li>
+        <li>
+          Pangea News: <a href="https://pangeanews.vercel.app/" target="_blank">https://pangeanews.vercel.app/</a>
+        </li>
+        <li>
+          ACNS Company: <a href="https://acns.vercel.app/" target="_blank">https://acns.vercel.app/</a>
+        </li>
+        <li>
+          ClimaGuard: <a href="https://climaguard.vercel.app/" target="_blank">https://climaguard.vercel.app/</a>
+        </li>
+        <li>
+          Child Rights: <a href="https://bal-adhikar-funquest.vercel.app/" target="_blank">https://bal-adhikar-funquest.vercel.app/</a>
+        </li>
+        <li>
+          Destiny One: <a href="https://destinyone.vercel.app/" target="_blank">https://destinyone.vercel.app/</a>
         </li>
       </ul>
     </td>
