@@ -176,7 +176,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="tailwind" width="25" height="40"/>
   </a>
 </p>
-<p><img src="https://raw.githubusercontent.com/UniquePratham/output/snake.svg" alt="Snake animation" /></p>
+<p><img src="https://raw.githubusercontent.com/UniquePratham/UniquePratham/output/snake.svg" alt="Snake animation" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uniquepratham&show_icons=true&locale=en&layout=compact" alt="uniquepratham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uniquepratham&show_icons=true&locale=en" alt="uniquepratham" /></p>
