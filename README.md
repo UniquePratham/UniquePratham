@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
 <!--     <div align="center"> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" align="center" />
 <!--     </div> -->
