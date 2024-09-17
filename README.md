@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31ABE1&center=true&width=435&lines=Full+Stack+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" />
 </div>
 
 <p align="center">
