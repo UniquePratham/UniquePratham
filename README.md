@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; text-align: center;">
 <!--     <div align="center"> -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" align="center" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" text-align="center" />
 <!--     </div> -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
