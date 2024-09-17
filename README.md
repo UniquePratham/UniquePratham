@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-    <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" /></a>
-    </p>
+<!--     <div align="center"> -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" />
+<!--     </div> -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
   </p>
