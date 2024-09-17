@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div>
-  <p align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!)](https://git.io/typing-svg)
-  </p>
-  <p align="left">
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
   </p>
 </div>
