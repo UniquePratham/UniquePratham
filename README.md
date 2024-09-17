@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-    <div href="https://git.io/typing-svg" rel="nofollow" style="display: flex; max-width: 100%; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" style="max-width: 100%;" />
-    </div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer;C+Programmer;Great+Learner;and+Tech+Enthusiast;Nice+to+meet+you+!" alt="Typing SVG" />
+</div>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
 </p>
+
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <span style="margin: 10px; width: 30%; display: flex; justify-content: center;">
