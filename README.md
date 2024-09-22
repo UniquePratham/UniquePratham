@@ -179,7 +179,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="tailwind" width="25" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" width="25" height="40"/>
+  </a>
+    <a href="https://spline.design/" target="_blank" rel="noreferrer">
+    <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png" alt="spline" width="25" height="40"/>
   </a>
 </p>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/UniquePratham/UniquePratham/output/github-contribution-grid-snake.svg" />
