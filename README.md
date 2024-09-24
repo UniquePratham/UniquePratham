@@ -181,6 +181,9 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" width="25" height="40"/>
   </a>
+    <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" alt="chakra-ui" width="25" height="40"/>
+  </a>
     <a href="https://spline.design/" target="_blank" rel="noreferrer">
     <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=64&q=75" alt="spline" width="40" height="40"/>
   </a>
