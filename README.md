@@ -92,6 +92,12 @@
         <li>
           Destiny One:<br> <a href="https://destinyone.vercel.app/" target="_blank">https://destinyone.vercel.app/</a>
         </li>
+          <li>
+          Vitality AI:<br> <a href="https://vitalityaiofficial.vercel.app/" target="_blank">https://vitalityaiofficial.vercel.app/</a>
+        </li>
+          <li>
+          DualTextOCRFusion:<br> <a href="https://huggingface.co/spaces/UniquePratham/DualTextOCRFusion" target="_blank">https://huggingface.co/spaces/UniquePratham/DualTextOCRFusion</a>
+        </li>
       </ul>
     </td>
   </tr>
