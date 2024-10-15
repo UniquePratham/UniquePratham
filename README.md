@@ -9,6 +9,15 @@
     <img src="https://komarev.com/ghpvc/?username=uniquepratham&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepratham" />
 </p>
 
+```js
+const name = "Pratham Agarwal";
+const dev = newDeveloper(name);
+
+while (dev.isCoding()){
+  dev.listenToMusic();
+  dev.drinkWater();
+}
+```
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <span style="margin: 10px; width: 30%; display: flex; justify-content: center;">
@@ -27,12 +36,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=uniquepratham" alt="uniquepratham" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/unique_pratham" target="blank">
-    <img src="https://img.shields.io/twitter/follow/unique_pratham?logo=twitter&style=for-the-badge" alt="unique_pratham" />
   </a>
 </p>
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
@@ -103,15 +106,11 @@
   </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/unique_pratham" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unique_pratham" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/pratham-agarwal-96515b225" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-agarwal-96515b225" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+    <img src="connection.svg" width="100%" height="300" alt="connection">
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
