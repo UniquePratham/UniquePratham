@@ -106,10 +106,19 @@ while (dev.isCoding()){
   </tr>
 </table>
 
-<div align="center">
-    <img src="connection.svg" width="100%" height="300" alt="connection">
-</div>
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <span style="display:inline-block;">
+    <a href="https://x.com/unique_pratham" target="_blank" style="text-decoration:none !important;">
+      <img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="unique_pratham" height="43" width="43" style="border:none;" />
+    </a>
+  </span>
+  <span style="display:inline-block;">
+    <a href="https://linkedin.com/in/uniquepratham" target="_blank" style="text-decoration:none !important;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="uniquepratham" height="40" width="40" style="border:none;" />
+    </a>
+  </span>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
