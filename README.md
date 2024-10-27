@@ -115,6 +115,16 @@ while (dev.isCoding()){
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="uniquepratham" height="40" width="40" style="border:none;" />
     </a>
   </span>
+    <span style="display:inline-block;">
+    <a href="https://www.facebook.com/cooluniquepratham" target="_blank" style="text-decoration:none !important;">
+      <img src="https://imgs.search.brave.com/GXexLJOQdkJZerfpCr5eiN_3dskzXZHPPZ4zKI7yZ-o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy81/LzUxL0ZhY2Vib29r/X2ZfbG9nb18oMjAx/OSkuc3Zn" alt="uniquepratham" height="40" width="40" style="border:none;" />
+    </a>
+  </span>
+    <span style="display:inline-block;">
+    <a href="https://www.instagram.com/unique_pratham" target="_blank" style="text-decoration:none !important;">
+      <img src="https://imgs.search.brave.com/4HDqFbLOhjQll4awFRi3DtGHbSGlDQM__WHnn-GI5Rc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk1L0luc3RhZ3Jh/bV9sb2dvXzIwMjIu/c3Zn" alt="uniquepratham" height="40" width="40" style="border:none;" />
+    </a>
+  </span>
 </p>
 
 
