@@ -33,7 +33,7 @@ while (dev.isCoding()){
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=uniquepratham&theme=onestar&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers" alt="uniquepratham" />
+    <img src="https://github-profile-trophy.vercel.app/?username=uniquepratham&theme=onestar&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers" alt="uniquepratham" align="center" />
 </div>
 
    <ul style="list-style: none; padding: 0;">
