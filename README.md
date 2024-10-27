@@ -18,7 +18,6 @@ while (dev.isCoding()){
   dev.drinkWater();
 }
 ```
-
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <span style="margin: 10px; width: 30%; display: flex; justify-content: center;">
     <img src="2.gif" alt="uniquepratham" height="200" width="235"/>
@@ -38,6 +37,16 @@ while (dev.isCoding()){
     <img src="https://github-profile-trophy.vercel.app/?username=uniquepratham" alt="uniquepratham" />
   </a>
 </p>
+
+   <ul style="list-style: none; padding: 0;">
+        <li>🔭 I’m currently working on Full Stack Web Development and Image Processing</li>
+        <li>🌱 I’m currently learning Machine Learning and BlockChain</li>
+        <li>👯 I’m looking to collaborate on Web Projects</li>
+        <li>🤝 I’m looking for help with Generative AI</li>
+        <li>💬 Ask me about Web Dev, Designing, CyberSecurity and Other Related Domains</li>
+        <li>📫 How to reach me gargpratham71@gmail.com</li>
+        <li>⚡ Fun fact I am always ready to learn</li>
+      </ul>
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
     <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
@@ -62,17 +71,6 @@ while (dev.isCoding()){
         <li>
           Magic Notes App:<br> <a href="https://magic-notes1.web.app/" target="_blank">https://magic-notes1.web.app/</a>
         </li>
-      </ul>
-    </td>
-     <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 40%;">
-      <ul style="list-style: none; padding: 0;">
-        <li>🔭 I’m currently working on Full Stack Web Development and Image Processing</li>
-        <li>🌱 I’m currently learning Machine Learning and BlockChain</li>
-        <li>👯 I’m looking to collaborate on Web Projects</li>
-        <li>🤝 I’m looking for help with Generative AI</li>
-        <li>💬 Ask me about Web Dev, Designing, CyberSecurity and Other Related Domains</li>
-        <li>📫 How to reach me gargpratham71@gmail.com</li>
-        <li>⚡ Fun fact I am always ready to learn</li>
       </ul>
     </td>
     <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
