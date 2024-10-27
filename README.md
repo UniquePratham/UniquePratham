@@ -32,11 +32,9 @@ while (dev.isCoding()){
 
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=uniquepratham&theme=onestar&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers" alt="uniquepratham" />
-  </a>
-</p>
+</div>
 
    <ul style="list-style: none; padding: 0;">
         <li>🔭 I’m currently working on Full Stack Web Development and Image Processing</li>
