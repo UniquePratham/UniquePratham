@@ -48,7 +48,7 @@ while (dev.isCoding()){
       </ul>
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
       <strong>Web Projects:</strong>
       <ul style="list-style: none; padding: 0;">
         <li>Personal Projects Related to Web Development</li>
@@ -72,7 +72,7 @@ while (dev.isCoding()){
         </li>
       </ul>
     </td>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 30%;">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd; width: 50%;">
       <strong>Team Web Projects:</strong>
       <ul style="list-style: none; padding: 0;">
         <li>Team Projects Related to Web Development</li>
