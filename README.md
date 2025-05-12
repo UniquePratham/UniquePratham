@@ -46,7 +46,7 @@ while (dev.isCoding()){
         <li>📫 How to reach me gargpratham71@gmail.com</li>
         <li>⚡ Fun fact I am always ready to learn</li>
         <li>
-          💼 My Portfolio: <a href="https://snakemania-37281.web.app/" target="_blank">https://uniquepratham-portfolio.web.app/</a>
+          💼 My Portfolio: <a href="https://uniquepratham-portfolio.web.app/" target="_blank">Click Here 👇</a>
         </li>
       </ul>
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
