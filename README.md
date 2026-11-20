@@ -89,7 +89,7 @@ I build end-to-end products — from a C terminal emulator to AI-powered securit
 | **[TigerGraph Fraud Platform](https://web-console-three.vercel.app/)** | Agentic fraud investigation: 2-hop graph traversal, GraphRAG evidence grounding, dual-stage Next-Best-Action, FinCEN SAR narrative generation. | `Python` `TigerGraph` |
 | **[DualTextOCRFusion](https://huggingface.co/spaces/UniquePratham/DualTextOCRFusion)** | Multilingual OCR with keyword search, fusing Byaldi + Qwen2-VL and General OCR Theory. | `Python` `HF Spaces` |
 | **[Recall AI](https://github.com/UniquePratham/recall-ai)** | An AI bot that actually remembers things for you — persistent memory over conversation. | `Python` |
-| **[AI Agents Starter](https://github.com/UniquePratham/ai-agents-starter)** | A starter pack for building autonomous agents across frameworks, starting with Phi. | `Python` |
+| **[VSCODE_Agents](https://github.com/UniquePratham/VSCODE_Agents)** | A library of 77 GitHub Copilot agent definitions — domain specialists for backend, frontend, security, data, infra and CTF work. | `Copilot` `Prompting` |
 
 ### 🌐 Products & platforms
 
@@ -120,14 +120,25 @@ I build end-to-end products — from a C terminal emulator to AI-powered securit
 | ⌨️ Online Keyboard | [pratham-keyboard.web.app](https://pratham-keyboard.web.app/) |
 | 📰 FreshShresh News | [freshshreshnews.web.app](https://freshshreshnews.web.app/) |
 | 📝 Magic Notes | [magic-notes1.web.app](https://magic-notes1.web.app/) |
-| 🪟 Windows 11 in the browser | [github.com/UniquePratham/Windows11](https://github.com/UniquePratham/Windows11) |
+| 🪟 Windows 11 in the browser | [windows11-browser.vercel.app](https://windows11-browser.vercel.app) |
 | 📡 Pangea News | [pangeanews.vercel.app](https://pangeanews.vercel.app) |
 | 🌍 ClimaGuard | [climaguard.vercel.app](https://climaguard.vercel.app) |
 | 🏥 Vitality AI | [vitalityaiofficial.vercel.app](https://vitalityaiofficial.vercel.app/) |
 | 🚗 UrbanMotion | [urbanmotion.vercel.app](https://urbanmotion.vercel.app/) |
 | 👶 Bal Adhikar FunQuest | [bal-adhikar-funquest.vercel.app](https://bal-adhikar-funquest.vercel.app/) |
 | ✨ Destiny One | [destinyone.vercel.app](https://destinyone.vercel.app/) |
-| 🏢 ACNS | [acns.vercel.app](https://acns.vercel.app/) |
+| 🏢 ACNS | [acns-v4.vercel.app](https://acns-v4.vercel.app) |
+| 🆘 CrisisLink | [crisislink-pied.vercel.app](https://crisislink-pied.vercel.app) |
+| 👗 Reapparel | [reapparel.vercel.app](https://reapparel.vercel.app) |
+| 🎨 Icon Generator | [react-native-icon-generator](https://react-native-icon-generator-n4el6ze2i-pratham-agarwals-projects.vercel.app) |
+| 🧩 Vanilla JS Projects | [raw-html-css-js-projects.vercel.app](https://raw-html-css-js-projects.vercel.app) |
+| 🔢 CGAN Digits | [cgan-mnist-generator.vercel.app](https://cgan-mnist-generator.vercel.app) |
+| 📊 EconInsight | [econinsight-steel.vercel.app](https://econinsight-steel.vercel.app) |
+| 💬 HackAI ChatMate | [hackai-finals.vercel.app](https://hackai-finals.vercel.app) |
+| 📦 ISS Cargo | [iss-cargo-management.vercel.app](https://iss-cargo-management.vercel.app) |
+| 🎓 AdhyayanAI | [adhyayanai-five.vercel.app](https://adhyayanai-five.vercel.app) |
+| 🩺 Triaging Healthcare | [triaging-healthcare.vercel.app](https://triaging-healthcare.vercel.app) |
+| 🌾 AgriSphere | [agrisphere-nu.vercel.app](https://agrisphere-nu.vercel.app) |
 
 </details>
 
