@@ -89,7 +89,7 @@ I build end-to-end products — from a C terminal emulator to AI-powered securit
 | **[TigerGraph Fraud Platform](https://web-console-three.vercel.app/)** | Agentic fraud investigation: 2-hop graph traversal, GraphRAG evidence grounding, dual-stage Next-Best-Action, FinCEN SAR narrative generation. | `Python` `TigerGraph` |
 | **[DualTextOCRFusion](https://huggingface.co/spaces/UniquePratham/DualTextOCRFusion)** | Multilingual OCR with keyword search, fusing Byaldi + Qwen2-VL and General OCR Theory. | `Python` `HF Spaces` |
 | **[Recall AI](https://github.com/UniquePratham/recall-ai)** | An AI bot that actually remembers things for you — persistent memory over conversation. | `Python` |
-| **[VSCODE_Agents](https://github.com/UniquePratham/VSCODE_Agents)** | A library of 77 GitHub Copilot agent definitions — domain specialists for backend, frontend, security, data, infra and CTF work. | `Copilot` `Prompting` |
+| **[VSCODE_Agents](https://github.com/UniquePratham/VSCODE_Agents)** | A library of 310 GitHub Copilot agent definitions — domain specialists for backend, frontend, security, data, infra and CTF work. | `Copilot` `Prompting` |
 
 ### 🌐 Products & platforms
 
